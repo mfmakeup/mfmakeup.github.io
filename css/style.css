@@ -1690,3 +1690,25 @@ footer {
 img {
 	max-width: 100%;
 }
+
+.mariliaSocial {
+  padding: 0; 
+  list-style: none;
+}
+
+.insta {
+  width: 30px;
+  height: 30px;
+}
+
+.liface {
+  float: left;
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.face {
+  width: 30px;
+  height: 30px;
+}
